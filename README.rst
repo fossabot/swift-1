@@ -57,6 +57,8 @@ Tests
 There are three types of tests included in Swift's source tree.
 
 #. Unit tests
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Falphax777%2Fswift.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Falphax777%2Fswift?ref=badge_shield)
+
 #. Functional tests
 #. Probe tests
 
@@ -158,3 +160,7 @@ For more information come hang out in #openstack-swift on freenode.
 Thanks,
 
 The Swift Development Team
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Falphax777%2Fswift.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Falphax777%2Fswift?ref=badge_large)
